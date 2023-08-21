@@ -1,0 +1,19 @@
+.tdtable {
+    
+    border-top-width: 0px !important;
+border-left-width: 0px!important;
+border-right-width: 0px!important;
+font: 14px arial !important;
+padding-top: 10px !important;
+}
+.select2-selection__rendered {
+    
+    border-top-width: 0px !important;
+border-left-width: 0px!important;
+border-right-width: 0px!important;
+font: 14px arial !important;
+padding-top: 10px !important;
+}
+.select2-selection select2-selection--single {
+border: 0px solid #aaa !important;
+}
